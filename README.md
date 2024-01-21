@@ -1,5 +1,5 @@
 # Passenger Counter
-This is my solution from the project: **Passenger Counter** from [**Frontend Career Path**](https://scrimba.com/learn/frontend) - Module 2 by [**Scrimba**](https://scrimba.com/).
+This is my solution from the project: **Passenger Counter** from [**Frontend Career Path**](https://scrimba.com/learn/frontend) - Module 3 by [**Scrimba**](https://scrimba.com/).
 
 ![Sample](./assets/video/sample.gif)
 
