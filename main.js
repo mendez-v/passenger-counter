@@ -28,4 +28,6 @@ function save() {
 function clear() {
   saveCount = "";
   saveEl.textContent = "Previous entries:"
+  count = 0;
+  countEl.textContent = count;
 }
