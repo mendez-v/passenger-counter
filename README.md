@@ -40,7 +40,7 @@ This is my solution from the project: **Passenger Counter** from [**Frontend Car
 
 [Scrim](https://scrimba.com/scrim/cBerPytw) 👀
 
-[FCP repo](https://github.com/mendez-v/frontend-career-path) 👀
+[Frontend Career Path](https://github.com/mendez-v/frontend-career-path) 👀
 
 ## *I learnt*
 
